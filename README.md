@@ -75,7 +75,7 @@ cd server
 - Build and start all services:
 
 ```bash
-docker-compose up --d
+docker compose up -d
 ```
 ## Accessing the Application:
 
